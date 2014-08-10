@@ -1,5 +1,6 @@
 ## Exploratory Data Analysis
-#  Assignment 1: Electric Power Consumption graphing
+***
+##  Assignment 1: Electric Power Consumption graphing
 
 There are four R scripts to produce four required plots. Each script is self contained and and will, if required, download, extract, and subset the required data.
 
@@ -20,6 +21,8 @@ Each script is run from within the R environment by sourcing the .R file e.g. so
 ![plot4](plot4.png)
 
 ***
+
+#### Original instructions
 
 ## Introduction
 
